@@ -1,0 +1,24 @@
+ Analyse des ventes e-commerce Amazon
+
+1. Présentation du projet
+Ce projet analyse les données de ventes e-commerce Amazon 2025-2026 afin d’identifier les tendances de revenus, les taux de retour, le comportement des clients et la performance géographique.
+
+2. Outils et technologies utilisés
+- Power BI
+- Power Query
+- Visualisation de données
+- Analyse business
+
+3. Principaux insights
+- La catégorie Electronics est le principal moteur de revenus
+- Les catégories Clothing et Beauty présentent des taux de retour élevés
+- Delhi et Mumbai génèrent le plus de chiffre d’affaires
+- Les paiements digitaux dominent les transactions
+
+4. Contenu du projet
+- Tableau de bord Power BI (.pbix)
+- Jeu de données
+- Captures d’écran du dashboard
+
+5. Objectif du projet
+Fournir des insights basés sur les données pour soutenir la prise de décision.
